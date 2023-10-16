@@ -105,9 +105,9 @@ En definitiva, la programación orientada a objetos no solo se presenta como una
 
 •	**Conclusión de Marco.**
 
-El proyecto implica la implementación de un sistema basado en el paradigma de la programación orientada a objetos, que aborda el problema de una taquería. Para ello, se ha desarrollado un sistema que establece relaciones entre diversas clases. Además, se ha integrado un gestor de datos que almacena la información de los productos en un archivo de Excel. Esto demuestra que es viable resolver un problema de este tipo utilizando la programación orientada a objetos.
+El proyecto implica la implementación de un sistema basado en el paradigma de la programación orientada a objetos, que aborda el problema de una taquería. Para ello, se implemento un programa que guarda los registros de los pedidos que se hacen además de que también se puede hacer un registro de los pedidos que se necesitan
 
-Es fundamental destacar que la programación orientada a objetos no es un tema sencillo de estudiar; requiere una comprensión sólida de conceptos como clases, objetos, métodos, atributos, excepciones, relaciones, entre otros. En este contexto, el uso de programas como Excel se revela como una herramienta valiosa para gestionar la información de manera eficaz. Nos encontramos en un proceso continuo de aprendizaje y mejoras, con el objetivo de perfeccionar nuestras habilidades en este campo.
+Como me pude dar cuenta a lo largo del trimestre el paradigma de la programación orientada a objetos es un paradigma muy utilizado y que se puede relacionar con todo en esta vida, de hecho por eso es orientado a objetos, entonces resulta muy importante aprender este paradigma para poder sistemas no solo de este tipo sino de mayor complejidad por que en el campo laboral es el paradigma más utilizado.
 
 •	**Conclusión de Isaí.**
 

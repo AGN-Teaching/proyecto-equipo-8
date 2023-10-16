@@ -30,6 +30,9 @@ Para satisfacer estos requisitos, se diseñaron clases clave: `Cliente`, `Produc
 
 **III. Implementación de Clases**
 
+### Diagrama de clases
+![Diagrama](ImagenProyecto.jpeg)
+
 **Cliente:**
 
 Se implementaron métodos robustos para el registro e inicio de sesión de clientes. Estos métodos no solo permiten a los clientes acceder al sistema, sino que también garantizan la seguridad de sus datos mediante la validación de contraseñas y un almacenamiento seguro de la información.
@@ -41,6 +44,9 @@ La clase `Producto` fue desarrollada para contener detalles como nombre, precio 
 **Pedidos:**
 
 Se implementó lógica compleja para calcular el total del pedido, gestionar el estado del pedido (pendiente/entregado) y administrar la lista de productos asociados al pedido. Esta clase fue fundamental para asegurar la precisión y confiabilidad de los registros de pedidos.
+
+**EjemploTaqueria**
+Es una clase que sirve como principal ya que en ella se encuentra un método main, lo que hace esta clase es creae un objeto de tipo taquería, y ejecuta el método main de taquería que es donde se encuentra gran parte de la funcionalidad del programa.
 
 **Taqueria:**
 
